@@ -1,0 +1,16 @@
+============
+Error 10002
+============
+
+Trial account does not support this feature
+---------------------------------------------
+
+Your account is currently in Trial mode and does not have access to this feature.
+
+Possible Causes
+>>>>>>>>>>>>>>>>>>>
+* Attempting to use a premium feature with a trial account
+
+Possible Solutions
+>>>>>>>>>>>>>>>>>>
+* Upgrade to a full account to remove this error

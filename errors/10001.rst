@@ -1,0 +1,15 @@
+====================================
+Error 10001 - Account is not active
+====================================
+
+This account has been disabled and may not be used until it is reactived.
+
+Possible Causes
+>>>>>>>>>>>>>>>
+* Lack of funds
+* Violation of the Terms of Service or Acceptable Use Policy
+
+Possible Solutions
+>>>>>>>>>>>>>>>>>>>
+* Check your account balance. Refill funds if necessary.
+* Contact Twilio customer support to inquire further.
